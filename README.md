@@ -1,7 +1,1 @@
-# DUSK marketing website — first draft
-
-This is a static coming-soon marketing website, separate from the DUSK app. Preview by opening index.html in a browser.
-
-Before public launch: confirm official logo assets, exact brand matching, desired contact email, domain and DNS. The contact section currently states that contact details are coming soon rather than inventing an email address. No forms, analytics, real offers, or redemption are present.
-
-Deploy via a separate GitHub Pages repository to avoid interfering with Codex's active dusk-app branch. Add index.html and styles.css at the repository root, enable GitHub Pages, then configure a custom domain once known.
+DUSK website redesign. Upload index.html, styles.css and the entire assets/ folder to the root of gbc19/dusk-website on GitHub Pages. This is a coming-soon marketing site; no live promotions, redemptions, signup forms, or contact addresses. The phone visual is an illustrative concept. The original screenshot is explicitly labeled archival. Footer: © 2015–2026 Dusk App, LLC. All rights reserved.
